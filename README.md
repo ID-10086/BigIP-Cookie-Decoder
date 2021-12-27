@@ -1,2 +1,2 @@
 # BigIP-Cookie-Decoder
-解码BigIP-Cookie
+替换encoded_string的值为对应cookie的值即可。
